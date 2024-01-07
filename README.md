@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Featherworks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game development, web development, and media with animals and aliens in it!
+- 🌱 I’m currently learning Javascript and HTML.
 
 <!---
 Featherworks/Featherworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
