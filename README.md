@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Featherworks
+- 👋 Hi, I’m @Featherworks!
 - 👀 I’m interested in game development, web development, and media with animals and aliens in it!
 - 🌱 I’m currently learning Godot game development software and its associated GDScript.
 
